@@ -4,7 +4,7 @@ const dataset = JSON.parse(JSON.stringify(require('../utils/loopQA-Testdata.json
 
 
 for (const data of dataset) {
-    test.only(`LoopQA Authentication Demo for ${data.desiredTicketName}`, async ({ page }) => {
+    test(`LoopQA Authentication Demo for ${data.desiredTicketName}`, async ({ page }) => {
         //creating page object manager and passing page value as an argument
         const poManager = new PageObjectManager(page);
 
