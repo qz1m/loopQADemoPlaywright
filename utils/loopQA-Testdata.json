@@ -1,0 +1,52 @@
+[
+    {
+        "username": "admin",
+        "password": "password123",
+        "desiredTabName": "Web Application",
+        "desiredColumnName": "To Do",
+        "desiredTicketName": "Implement user authentication",
+        "desiredTicketTagName1": "Feature",
+        "desiredTicketTagName2": "High Priority"
+    },
+    {
+        "username": "admin",
+        "password": "password123",
+        "desiredTabName": "Web Application",
+        "desiredColumnName": "To Do",
+        "desiredTicketName": "Fix navigation bug",
+        "desiredTicketTagName1": "Bug"
+    },
+    {
+        "username": "admin",
+        "password": "password123",
+        "desiredTabName": "Web Application",
+        "desiredColumnName": "In Progress",
+        "desiredTicketName": "Design system updates",
+        "desiredTicketTagName1": "Design"
+    },
+    {
+        "username": "admin",
+        "password": "password123",
+        "desiredTabName": "Mobile Application",
+        "desiredColumnName": "To Do",
+        "desiredTicketName": "Push notification system",
+        "desiredTicketTagName1": "Feature"
+    },
+    {
+        "username": "admin",
+        "password": "password123",
+        "desiredTabName": "Mobile Application",
+        "desiredColumnName": "In Progress",
+        "desiredTicketName": "Offline mode",
+        "desiredTicketTagName1": "Feature",
+        "desiredTicketTagName2": "High Priority"
+    },
+    {
+        "username": "admin",
+        "password": "password123",
+        "desiredTabName": "Mobile Application",
+        "desiredColumnName": "Done",
+        "desiredTicketName": "App icon design",
+        "desiredTicketTagName1": "Design"
+    }
+]
